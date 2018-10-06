@@ -16,7 +16,7 @@ class Spok
       canada
       costa_rica
       indonesia
-	  malaysia
+      malaysia
       mexico
       netherlands
       poland
